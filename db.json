@@ -97,14 +97,14 @@
 		 {
           "uid": "cfa6652d-a61b-4588-bc14-0da59447190d",
           "uid_r": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
-          "lec": true,
-          "ecr": true
+          "lec": false,
+          "ecr": false
         },
 		 {
           "uid": "fb62d567-87ab-4198-9bb0-a089b81244c4",
           "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
-          "lec": true,
-          "ecr": true
+          "lec": false,
+          "ecr": false
          }
 	  ]
     },
