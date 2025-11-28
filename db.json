@@ -1,0 +1,177 @@
+{
+  "utilisateurs": [
+    {
+      "uid": "0da0a6c6-2135-43af-9efd-35ee5d722e88",
+      "ident": "b.clouet",
+      "nom": "CLOUET",
+      "prenom": "Bénédicte",
+      "mdp": "12345",
+      "droits": [
+        {
+          "uid": "90ab0607-cc68-4671-97dc-cf6f88288acd",
+          "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+          "lec": true,
+          "ecr": true
+        },
+        {
+          "uid" : "dcb2aa6e-7cf1-4523-9d75-9f45b00cc18b",
+          "uid_r": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
+          "lec": true,
+          "ecr": true
+        }
+      ]
+    },
+     {
+      "uid": "e072b57a-b1bd-4957-9218-dd4cd4a514ec",
+      "ident": "g.bailleul",
+      "nom": "BAILLEUL",
+      "prenom": "Grégoire",
+      "mdp": "67890",
+      "droits": [ 
+		{
+          "uid": "618e109e-670e-470f-b76e-1fa685bf610b",
+          "uid_r": "960615d7-67dd-4fa5-996e-9b134259de72",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "8a0c84e5-1507-4614-a9b5-11e320dba82f",
+          "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "5d8680e2-da6e-47d2-944c-6db40e069524",
+          "uid_r": "74888f93-35ec-4d62-b4cd-922c53b4bf0c",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "96e6c7c3-6208-45b0-918c-ad5e490e1433",
+          "uid_r": "5e0994d9-705c-47d4-a8be-675107b0af6f",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "d84857f3-5151-42df-879a-9fbf90fb71e2",
+          "uid_r": "43f0ff08-54f7-4b43-9d4e-81d6fcaed7d8",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "fd84b575-1d2c-444c-9387-fd08fb7f559e",
+          "uid_r": "e5061ada-c158-4ffa-b3ee-00538b410bf6",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "dd550268-4b64-4ba1-9d82-4f108dea6e84",
+          "uid_r": "6a0dcc99-25a9-4419-b49c-b49f9f22e5b4",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "6f0ec5ab-be89-4cdd-abf5-f22fa3a1cefc",
+          "uid_r": "214da268-01df-485c-86e5-c583d1c985f5",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "277f358f-a505-4bfd-bb45-44de06d2f945",
+          "uid_r": "7b29fb95-3447-4e2e-8b01-f6488275df65",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "1ea6b444-84c7-4d3c-bf77-b2b77f8cf995",
+          "uid_r": "087f407f-5b4e-4903-a0a1-f82617e51466",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "40a9cfa3-b753-4471-b721-8f8fd42f1c4c",
+          "uid_r": "b6a82983-cc6d-4d7a-b014-3ff6f8f733d3",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "cfa6652d-a61b-4588-bc14-0da59447190d",
+          "uid_r": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "fb62d567-87ab-4198-9bb0-a089b81244c4",
+          "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
+          "lec": true,
+          "ecr": true
+         }
+	  ]
+    },
+    {
+      "uid": "c94b9d9d-6847-4d0c-872d-deb50d696804",
+      "ident": "r.ferrant",
+      "nom": "FERRANT",
+      "prenom": "Rémi",
+      "mdp": "14785",
+      "droits": [
+        {
+          "uid" : "b7d0d3fd-c99c-4ff3-9678-8b812df246c5",
+          "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid" : "9c79a89a-ab3a-4f4f-8857-52ac94189bec",
+          "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+          "lec": true,
+          "ecr": true
+        }
+      ]
+    },
+    {
+      "uid": "faff0562-bc76-4ea2-be6e-610d0695a4e4",
+      "ident": "e.proy",
+      "nom": "PROY",
+      "prenom": "Eric",
+      "mdp": "65893",
+      "droits": [
+        {
+          "uid": "64b5c727-5b4f-4edd-bcf9-10dc4572b04e",
+          "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+          "lec": true,
+          "ecr": true
+        }
+      ]
+    },
+    {
+      "uid": "c1a05c98-7cb8-840d5-bc8d-6a868b99fc35",
+      "ident": "d.bailleul",
+      "nom": "BAILLEUL",
+      "prenom": "Denis",
+      "mdp": "51764",
+      "droits": [
+        {
+          "uid": "e2b1e659-51ba-401c-8c06-698bd172589b",
+          "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+          "lec": true,
+          "ecr": true
+        },
+        {
+          "uid": "47788351-f858-491f-88ab-0afb2d9455f9",
+          "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+          "lec": true,
+          "ecr": true
+        }
+      ]
+    },
+    {
+      "uid": "202a1f33-b554-4fb7-b1e2-824eca44cc63",
+      "ident": "g.pasdedroits",
+      "nom": "PASDEDROITS",
+      "prenom": "Geylan",
+      "mdp": "75129",
+      "droits": []
+    }
+  ]
+}
