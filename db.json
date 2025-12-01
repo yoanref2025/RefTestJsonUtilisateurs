@@ -18,7 +18,73 @@
           "uid_r": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
           "lec": true,
           "ecr": true
-        }
+        },
+		 {
+          "uid": "9b82c2a3-e907-479a-9efe-bcb9e18b141e",
+          "uid_r": "74888f93-35ec-4d62-b4cd-922c53b4bf0c",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "12d06530-16dd-43e2-a105-e196453ee5ef",
+          "uid_r": "5e0994d9-705c-47d4-a8be-675107b0af6f",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "4e506b7d-c85b-4250-a36a-fc116cfcbde8",
+          "uid_r": "43f0ff08-54f7-4b43-9d4e-81d6fcaed7d8",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "4c1de862-6362-4bb3-9fcf-bd69a404cc8c",
+          "uid_r": "e5061ada-c158-4ffa-b3ee-00538b410bf6",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "d5cb2e66-1393-47da-baa9-b996ba0a4cab",
+          "uid_r": "6a0dcc99-25a9-4419-b49c-b49f9f22e5b4",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "c42f4bf3-7d8e-42b9-ad48-1ffd55b25198",
+          "uid_r": "214da268-01df-485c-86e5-c583d1c985f5",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "67c5db1c-1943-4eea-a89d-c370b2e228d9",
+          "uid_r": "7b29fb95-3447-4e2e-8b01-f6488275df65",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "0135d070-828b-4239-a2a4-e3e8ebcddcb3",
+          "uid_r": "087f407f-5b4e-4903-a0a1-f82617e51466",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "07861fdc-18bd-455e-8f3f-dbbb92cfe1f1",
+          "uid_r": "b6a82983-cc6d-4d7a-b014-3ff6f8f733d3",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "f098a6e2-9e08-4df8-9a41-99fa216a7916",
+          "uid_r": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "b13c7110-18bb-4a9e-bdb9-c86d38524900",
+          "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
+          "lec": true,
+          "ecr": true
+         }
       ]
     },
      {
