@@ -171,6 +171,30 @@
           "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
           "lec": true,
           "ecr": true
+         },
+		 {
+          "uid": "1ea6b444-84c7-4d3c-bf77-b2b77f8cf995",
+          "uid_r": "193f39de-12ad-428f-8d59-c8167cd93842",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "40a9cfa3-b753-4471-b721-8f8fd42f1c4c",
+          "uid_r": "b1ebdc11-0785-489c-8429-1983b3bac1d5",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "cfa6652d-a61b-4588-bc14-0da59447190d",
+          "uid_r": "e8232428-9880-450e-8b30-d994857dce70",
+          "lec": true,
+          "ecr": true
+        },
+		 {
+          "uid": "fb62d567-87ab-4198-9bb0-a089b81244c4",
+          "uid_r": "dc4b2d43-fc08-461b-9eb5-7bd2a0525292",
+          "lec": true,
+          "ecr": true
          }
 	  ]
     },
