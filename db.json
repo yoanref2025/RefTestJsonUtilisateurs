@@ -28,8 +28,8 @@
 		 {
           "uid": "12d06530-16dd-43e2-a105-e196453ee5ef",
           "uid_r": "5e0994d9-705c-47d4-a8be-675107b0af6f",
-          "lec": true,
-          "ecr": true
+          "lec": false,
+          "ecr": false
         },
 		 {
           "uid": "4e506b7d-c85b-4250-a36a-fc116cfcbde8",
