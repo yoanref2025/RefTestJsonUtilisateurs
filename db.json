@@ -44,13 +44,12 @@
         {"uid":"40a9cfa3-b753-4471-b721-8f8fd42f1c4c","uid_r":"b6a82983-cc6d-4d7a-b014-3ff6f8f733d3","lec":true,"ecr":true},
         {"uid":"cfa6652d-a61b-4588-bc14-0da59447190d","uid_r":"f13b7f49-885e-43ab-b22d-823eeeac7bfd","lec":true,"ecr":true},
         {"uid":"fb62d567-87ab-4198-9bb0-a089b81244c4","uid_r":"4f75b01b-5a4b-4c7b-b49c-157518506975","lec":true,"ecr":true},
-        {"uid":"3b080b81-bc4d-4af1-9d0c-96fe39d3ecb1","uid_r":"193f39de-12ad-428f-8d59-c8167cd93842","lec":true,"ecr":true},
+		{"uid":"3b080b81-bc4d-4af1-9d0c-96fe39d3ecb1","uid_r":"193f39de-12ad-428f-8d59-c8167cd93842","lec":true,"ecr":true},
         {"uid":"89e9e5e8-d768-4be9-aa36-6b3d5518c6e5","uid_r":"b1ebdc11-0785-489c-8429-1983b3bac1d5","lec":true,"ecr":true},
         {"uid":"a59ac480-1985-4ddf-afe5-39dbb0afad71","uid_r":"e8232428-9880-450e-8b30-d994857dce70","lec":true,"ecr":true},
         {"uid":"fb499870-331c-494d-a537-cb76df033c99","uid_r":"dc4b2d43-fc08-461b-9eb5-7bd2a0525292","lec":true,"ecr":true},
         {"uid":"361a4f7b-6111-43a3-825f-ff30bef61a48","uid_r":"475aedb4-294c-4ecb-a64a-7e0a8ad64ac0","lec":true,"ecr":true},
-        {"uid":"f7a04dfe-e1c8-47f8-9258-6de976db7ba3","uid_r":"877b80dc-c9c7-4f0a-aefa-705cc3217600","lec":true,"ecr":true},
-        {"uid":"7a8c1894-bc7f-4fbc-8e17-558c7e316880","uid_r":"ecdba066-a12a-4fbe-94bd-9d5db3958799","lec":true,"ecr":true},
+        {"uid":"f7a04dfe-e1c8-47f8-9258-6de976db7ba3","uid_r":"877b80dc-c9c7-4f0a-aefa-705cc3217600","lec":true,"ecr":true}       
         {"uid":"ee54e90e-6f23-4a09-94b7-475997c42995","uid_r":"b3b6ea74-28ae-4b91-a9ef-74a25e433f03","lec":true,"ecr":true}
       ]
     },
