@@ -87,10 +87,7 @@
       "prenom": "Eric",
       "mdp": "65893",
       "droits": [
-        {"uid":"64b5c727-5b4f-4edd-bcf9-10dc4572b04e","uid_r":"b843c5b7-12ca-42e9-9876-078aac08bb80","lec":true,"ecr":true},
-        {"uid":"dcee0980-20af-4453-af1d-0c33f187c655","uid_r":"b03c3b96-ee9b-456c-9a01-8ba113a459ce","lec":true,"ecr":true},
-        {"uid":"49748eb1-21ba-4041-a1ca-05e54948c66f","uid_r":"37af3b71-b7af-46fe-9358-6c24d157181a","lec":true,"ecr":true},
-		{"uid":"fcf1953b-800c-4e18-8119-28c029c521d7","uid_r":"7af538c4-c1d9-4e79-a932-25398d6818ef","lec":true,"ecr":true}
+        {"uid":"64b5c727-5b4f-4edd-bcf9-10dc4572b04e","uid_r":"b843c5b7-12ca-42e9-9876-078aac08bb80","lec":true,"ecr":true}
       ]
     },
     {
