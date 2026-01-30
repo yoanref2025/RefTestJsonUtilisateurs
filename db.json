@@ -54,9 +54,9 @@
     },
     {
       "uid": "c94b9d9d-6847-4d0c-872d-deb50d696804",
-      "ident": "r.ferrant",
-      "nom": "FERRANT",
-      "prenom": "Rémi",
+      "ident": "jl.ayme",
+      "nom": "AYME",
+      "prenom": "Jean-Luc",
       "mdp": "14785",
       "droits": [
         {"uid":"b7d0d3fd-c99c-4ff3-9678-8b812df246c5","uid_r":"544d7401-93d0-432a-8147-a0b0254562ae","lec":true,"ecr":true},
