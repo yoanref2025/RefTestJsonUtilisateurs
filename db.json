@@ -29,6 +29,7 @@
       "nom": "BAILLEUL",
       "prenom": "Grégoire",
       "mdp": "67890",
+	  "is_super_admin":true,
       "droits": [
         {"uid":"618e109e-670e-470f-b76e-1fa685bf610b","uid_r":"960615d7-67dd-4fa5-996e-9b134259de72","lec":true,"ecr":true},
         {"uid":"8a0c84e5-1507-4614-a9b5-11e320dba82f","uid_r":"01d268d8-fed9-41dd-9373-19d06059a289","lec":true,"ecr":true},
@@ -70,6 +71,7 @@
       "nom": "PANARIELLO",
       "prenom": "Yoan",
       "mdp": "36150",
+	  "is_super_admin":true
       "droits": [
         {"uid":"fef312c9-be5d-409d-b68b-ba5c84fa3bec","uid_r":"7cb9690f-dbc3-4251-80bc-41e16d17cf57","lec":true,"ecr":true}
       ]
