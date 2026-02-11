@@ -71,7 +71,7 @@
       "nom": "PANARIELLO",
       "prenom": "Yoan",
       "mdp": "36150",
-	  "is_super_admin":true
+	  "is_super_admin":true,
       "droits": [
         {"uid":"fef312c9-be5d-409d-b68b-ba5c84fa3bec","uid_r":"7cb9690f-dbc3-4251-80bc-41e16d17cf57","lec":true,"ecr":true}
       ]
